@@ -17,7 +17,7 @@
    <img align="center" alt="digitalocean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
  </div><br/>
  
- ## Apaixonado por tecnologia e por mundar o mundo das pessoas pela programçâo!
+ ## Apaixonado por tecnologia e por mundar o mundo das pessoas pela programação!
  
   [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581992311279)
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail/macaulylim@icloud.com)
