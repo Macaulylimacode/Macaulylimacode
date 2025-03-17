@@ -6,8 +6,9 @@
 <br/>
 <br/>
   
- ![Macaulylimacode GitHub stats](https://github-readme-stats.vercel.app/api?username=Macaulylimacode&show_icons=true&theme=dracula)
- ![Macaulylimacode](https://github-readme-stats.vercel.app/api/top-langs/?username=Macaulylimacode&hide_progress=dracula)
+  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Macaulylimacode&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Macaulylimacode&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
 
 <br/>
 
@@ -21,6 +22,6 @@
 
 ##
 <div align="center" >
-  <img src="https://github-profile-trophy.vercel.app/?username=Macaulylimacode=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Macaulylimacode&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
 
